@@ -1,0 +1,124 @@
+body { 
+    background-color: #1F271B;
+    color: aliceblue;
+}
+
+#tituloprincipal { 
+    color: aliceblue;
+    font-weight: bold; 
+    font-size: 50px; 
+    text-align: center; 
+    margin-top: 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.logotipo {
+    height: 200px;
+    padding-top: 50px;
+}
+
+h3 { 
+    margin-top: 40px;
+    font-size: 25px;
+    text-align: left;
+}
+
+.container { 
+    max-width: 500px;
+    margin: auto;
+}
+
+.formulario { 
+    color: #CCCCCC;
+ }
+
+
+#floatingInput {
+    height: 55px;
+    color: aliceblue;
+    background-color: #3B5F1E;
+    border: none;
+}
+
+#floatingPassword {
+    height: 55px;
+    color: aliceblue;
+    background-color: #3B5F1E;
+    border: none;
+}
+
+#exampleCheck1 {
+    text-align: left;
+}
+
+a {
+    text-align: center;
+    align-items: center;
+}
+
+#conectar { 
+    background-color: #3B5F1E;
+    border: black;
+    margin: 20px auto;
+    text-align: center;
+}
+#conectar:hover { 
+    background-color: #29490f
+ }
+ #conectar:active { 
+    background-color: #3C740F
+}
+
+#google {
+    background-color: #D9D9D9;
+    color: black; 
+    border: black;
+    background-image: url("../img/google.png");
+    background-size: 30px;
+    background-position: 50px;
+    background-repeat: no-repeat;
+}
+#google:hover {
+    background-color: #aaaaaa
+}
+#google:active {
+    background-color: #FFFFFF;
+}
+
+#facebook {
+    background-color: #3633BD;
+    border: black;
+    background-image: url("../img/facebook.png");
+    background-size: 30px;
+    background-position: 50px;
+    background-repeat: no-repeat;
+}
+#facebook:hover {
+    background-color: #2d2aa2;
+}
+#facebook:active {
+    background-color: #2721F1;
+}
+
+p {
+    margin-top: 25px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#cadastro {
+    background-color: #3B5F1E;
+    border:black;
+    height: 40px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+#cadastro:hover {
+    background-color: #29490f
+}
+#cadastro:active {
+    background-color: #3C740F
+}
